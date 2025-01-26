@@ -16,6 +16,7 @@
 # Imagens
 
 
-![Ping entre PC's ](https://github.com/1bora/PROZ_Arquitetos/blob/main/print_ping.png)
+![Ping entre PC's ](https://github.com/1bora/PROZ_Arquitetos/blob/main/Desenvolvimento%201%20%23111768/print_ping.png)
 
-![Topologia adotada](https://github.com/1bora/PROZ_Arquitetos/blob/main/print_topology.png)
+
+![Topologia adotada](https://github.com/1bora/PROZ_Arquitetos/blob/main/Desenvolvimento%201%20%23111768/print_topology.png)
